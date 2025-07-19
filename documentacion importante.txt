@@ -1,7 +1,0 @@
-Iniciar server desde backend 
-cd C:\Users\axelr\OneDrive\Escritorio\Crm\backend
-node server.js
-
-Iniciar server de frontend 
-cd C:\Users\axelr\OneDrive\Escritorio\Crm\frontend\crm-frontend>
-npm start
